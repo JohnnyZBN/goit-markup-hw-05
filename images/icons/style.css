@@ -15,7 +15,11 @@ Single-colored icons can be modified like so:
 }
 ========================================== */
 
-.icon-icon-send {
+.icon-email {
+  width: 1.3330078125em;
+}
+
+.icon-send {
   width: 1.2001953125em;
 }
 
