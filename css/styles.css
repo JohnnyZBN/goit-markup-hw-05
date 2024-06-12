@@ -608,7 +608,7 @@ visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);}
   font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
-    color: rgba(46, 47, 66, 0.4);
+    color: rgba(66, 46, 48, 0.4);
 }
 .checkbox-wrapper{
   margin-bottom: 24px;
